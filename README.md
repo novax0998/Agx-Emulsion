@@ -154,5 +154,3 @@ Thank you Adam Severeid from [discuss.pixls.us](https://discuss.pixls.us/) forum
 [^3]: Mallett, Yuksel, Spectral Primary Decomposition for Rendering with sRGB Reflectance, Eurographics Symposium on Rendering - DL-only and Industry Track, 2019, doi:10.2312/SR.20191216
 
 Sample images from [signatureedits.com](https://www.signatureedits.com/)/free-raw-photos.
-
-0x41da0adf5c48a0d1b3df71a0d732534935f397d7
